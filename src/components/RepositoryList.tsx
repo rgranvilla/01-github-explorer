@@ -38,7 +38,7 @@ export function RepositoryList() {
           return (
             <div key={repository.name}>
               <RepositoryItem repository={repository} />
-              <div className="controls">
+              <div className="repositoryControls">
                 <a
                   className="controlButton"
                   href={repository.html_url}
