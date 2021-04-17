@@ -1,8 +1,7 @@
-import { useCallback } from "react";
-
 interface RepositoryItemProps {
   repository: {
     name: string;
+    id: number;
     description: string;
     html_url: string;
     owner: {
@@ -30,10 +29,6 @@ export function RepositoryItem(props: RepositoryItemProps) {
         <strong>{props.repository.name}</strong>
 
         <p>{props.repository.description}</p>
-
-        <a href={props.repository.html_url}>
-          Acessar
-        </a>
       </li>
       </section>
     </div>
