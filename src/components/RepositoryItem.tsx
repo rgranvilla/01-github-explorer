@@ -1,7 +1,6 @@
-interface RepositoryItemProps {
+export interface RepositoryItemProps {
   repository: {
     name: string;
-    id: number;
     description: string;
     html_url: string;
     owner: {
