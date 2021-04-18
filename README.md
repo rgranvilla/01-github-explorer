@@ -62,6 +62,14 @@ Ao final do módulo, fiz alguns ajustes no layout e integrei uma funcionalidade 
 - [x] Acessar repositório
 - [x] Remover repositório
 - [ ] Fazer busca de repositório no github
+- [ ] Adicionar repositório na lista
+- [ ] Favoritar repositório
+- [ ] Cadastrar usuário
+- [ ] Login/Logout
+- [ ] Recuperar senha
+- [ ] Salvar dados da lista
+- [ ] Campo para comentários no repositório
+- [ ] Gerenciar perfil do usuário
 
 <br>
 
