@@ -19,10 +19,11 @@
 
 </p>
 </h3>
+<br>
 
 # Github Explorer
 
-## 💻 Sobre o projeto
+## 💻 **Sobre o projeto**
 
 <br>
 
@@ -42,7 +43,7 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 
 <br>
 
-## 📖 Tabela de conteúdos
+## 📖 **Tabela de conteúdos**
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Tabela de Conteúdo](#-tabela-de-conteúdos)
@@ -56,7 +57,7 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 
 <br>
 
-## 🔩 Funcionalidades
+## 🔩 **Funcionalidades**
 
 <br>
 
