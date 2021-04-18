@@ -39,7 +39,33 @@ Ao final do módulo, fiz alguns ajustes no layout e integrei uma funcionalidade 
 ---
 
 <br>
+
+## 📖 Tabela de conteúdos
+
+- [Sobre o projeto](#💻-sobre-o-projeto)
+- [Tabela de Conteúdo](#📖-tabela-de-conteúdos)
+- [Funcionalidades](#🔩-funcionalidades)
+- [Layout](#🎨-layout)
+- [Tecnologias](#🛠-tecnologias)
+
 <br>
+
+---
+
+<br>
+
+## 🔩 Funcionalidades
+
+<br>
+
+- [x] Carregar lista de repositórios
+- [x] Acessar repositório
+- [x] Remover repositório
+- [ ] Fazer busca de repositório no github
+
+<br>
+
+---
 
 ## 🎨 Layout
 
@@ -85,14 +111,12 @@ Foram utilizadas as seguintes ferramentes no desenvolvimento do projeto:
 
 - [TypeScript](https://www.typescriptlang.org/pt/)
 - [React](https://pt-br.reactjs.org/)
+- [Node.js](https://nodejs.org/pt-br/)
 - [Sass](https://sass-lang.com/)
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
-  <br>
-  <br>
+- [Yarn](https://yarnpkg.com/)
 - [Prettier](https://prettier.io/)
 - [EsLint](https://eslint.org/)
-- [Yarn](https://yarnpkg.com/)
-- [Node.js](https://nodejs.org/pt-br/)
 
 ---
