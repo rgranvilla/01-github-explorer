@@ -5,6 +5,18 @@
 🚧 Ignite - Trilha ReactJS 1.0 🚀 em construção... 🚧
 <br>
 <br>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rgranvilla/01-github-explorer?style=for-the-badge">
+  
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rgranvilla/01-github-explorer?style=for-the-badge">
+
+  <img alt="GitHub License" src="https://img.shields.io/github/license/rgranvilla/01-github-explorer?style=for-the-badge">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rgranvilla/01-github-explorer?style=for-the-badge">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rgranvilla/01-github-explorer?style=for-the-badge">
+</p>
 </h3>
 
 # Github Explorer
