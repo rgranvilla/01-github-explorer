@@ -23,6 +23,9 @@
 
 # Github Explorer
 
+<br>
+<br>
+
 ## 💻 **Sobre o projeto**
 
 <br>
@@ -50,6 +53,10 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 - [Funcionalidades](#-funcionalidades)
 - [Layout](#-layout)
 - [Tecnologias](#-tecnologias)
+- [Demonstração]
+- [Pré-requisitos]
+- [Autor]
+- [Licença]
 
 <br>
 
