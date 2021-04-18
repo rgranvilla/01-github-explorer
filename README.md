@@ -42,11 +42,11 @@ Ao final do módulo, fiz alguns ajustes no layout e integrei uma funcionalidade 
 
 ## 📖 Tabela de conteúdos
 
-- [Sobre o projeto](#💻-sobre-o-projeto)
-- [Tabela de Conteúdo](#📖-tabela-de-conteúdos)
-- [Funcionalidades](#🔩-funcionalidades)
-- [Layout](#🎨-layout)
-- [Tecnologias](#🛠-tecnologias)
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Tabela de Conteúdo](#-tabela-de-conteúdos)
+- [Funcionalidades](#-funcionalidades)
+- [Layout](#-layout)
+- [Tecnologias](#-tecnologias)
 
 <br>
 
