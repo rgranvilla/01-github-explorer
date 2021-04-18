@@ -28,11 +28,13 @@
 
 Este é um aplicativo desenvolvido durante o curso Ignite Trilha ReactJS ministrado por Diego Fernandes, CTO da Rocketseat.
 
-Nele, abordamos conceitos importantes quanto a estrutura de nossos projetos e boas práticas na programação, lidamos com as configurações iníciais de nossos projetos, e consumimos a API do Github.
+Nele, é abordado conceitos importantes quanto a estrutura dos projetos e boas práticas na programação, lidando com as configurações iníciais de projetos, e consumindo a API do Github.
 
-De partida, nosso código foi escrito em javascript, então tivemos a oportunidade de realizar a migração do nosso código para o TypeScript aos poucos.
+De partida, o código foi escrito em javascript, posteriormente foi realizada por etapas a migração do código para o TypeScript.
 
-Ao final do módulo, fiz alguns ajustes no layout e integrei uma funcionalidade para remoção de um repositório de nossa lista.
+Ao final do módulo, algumas alterações no layout foram realizadas e a integração da funcionalidade para remoção de um repositório da lista.
+
+Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão integradas a este aplicativo, e o mesmo será hospedado na Netlify.
 <br>
 <br>
 
@@ -75,9 +77,12 @@ Ao final do módulo, fiz alguns ajustes no layout e integrei uma funcionalidade 
 
 ---
 
-## 🎨 Layout
+## 🎨 **Layout**
 
-Como a aplicação visava o consumo de um API externo, o layout utilizado no curso estava bem simplificado, porém atendendo ao completamente a sua finalidade de demonstração.
+<br>
+
+### **Web**
+
 <br>
 <br>
 
@@ -126,5 +131,7 @@ Foram utilizadas as seguintes ferramentes no desenvolvimento do projeto:
 - [Yarn](https://yarnpkg.com/)
 - [Prettier](https://prettier.io/)
 - [EsLint](https://eslint.org/)
+  <br>
+  <br>
 
 ---
