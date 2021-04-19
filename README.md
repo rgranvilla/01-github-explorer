@@ -57,11 +57,7 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 - [Autor](#-autor)
 - [Licença MIT](#-licença-mit)
 
-<br>
-
 ---
-
-<br>
 
 ## 🔩 **Funcionalidades**
 
