@@ -42,11 +42,9 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 <br>
 <br>
 
----
+## 📖 **Tabela de conteúdos**
 
 <br>
-
-## 📖 **Tabela de conteúdos**
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Tabela de Conteúdo](#-tabela-de-conteúdos)
@@ -57,7 +55,7 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 - [Autor](#-autor)
 - [Licença MIT](#-licença-mit)
 
----
+<br>
 
 ## 🔩 **Funcionalidades**
 
@@ -78,16 +76,11 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 
 <br>
 
----
-
 ## 🎨 **Layout**
 
 <br>
 
-### **Web**
-
-<br>
-<br>
+<h3 align="center"><b> Web </b></h3>
 
 <p align="center">
   <img alt="Layout Original" src="./public/assets/layoutOriginal.png">
@@ -113,10 +106,6 @@ Buscando enriquecer o aprendizado, desenvolvi algumas alterações tanto de layo
 O layout atual possui responsividade na versão web. Nas próximas versões serão trabalhados os layouts para dispositivos mobile, assim como a funcionalidade para busca de repositórios no github, botão para inclusão do repositório encontrado, um botão para favoritar os repositórios, além de inclusão de mais campos de informações sobre cada repositório.
 
 <br>
-
----
-
-<br>
 <br>
 
 ## 🛠 Tecnologias
@@ -134,11 +123,8 @@ Foram utilizadas as seguintes ferramentes no desenvolvimento do projeto:
 - [Yarn](https://yarnpkg.com/)
 - [Prettier](https://prettier.io/)
 - [EsLint](https://eslint.org/)
-  <br>
-  <br>
 
----
-
+<br>
 <br>
 
 ## 🖥 Pré-requisitos
@@ -198,13 +184,9 @@ Se você chegou até aqui, estará com o aplicativo rodando em sua máquina. Sin
 Se você gostou do repositório marque o **Star** 🌟.
 
 <br>
-
----
-
-<br>
 <br>
 
-## 🤓 Autor
+# 🤓 Autor
 
 <br>
 
