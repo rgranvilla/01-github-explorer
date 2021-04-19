@@ -151,7 +151,7 @@ Foram utilizadas as seguintes ferramentes no desenvolvimento do projeto:
 
 <br>
 
-<img src="./public/assets/author.png" alt="Ricardo Granvilla" style="height:120px"/><br>
+<img src="./public/assets/author.png" alt="Ricardo Granvilla" style="height:120px"></img> <br>
 
 <a href="https://github.com/rgranvilla">Ricardo Granvilla 🚀</a>
 
