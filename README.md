@@ -181,7 +181,7 @@ Você deve receber uma mensagem informando o sucesso da compilação.
 <br>
 
 Se você chegou até aqui, estará com o aplicativo rodando em sua máquina. Sinta-se a vontade para modificar, melhorar e sugerir modificações na aplicação.
-Se você gostou do repositório marque o **Star** 🌟.
+Se você gostou do repositório marque uma **Estrela** 🌟.
 
 <br>
 <br>
