@@ -55,7 +55,7 @@ Buscando aprimorar ainda mais os conhecimentos, novas funcionalidades serão int
 - [Tecnologias](#-tecnologias)
 - [Demonstração]
 - [Pré-requisitos]
-- [Autor]
+- [Autor](#-autor)
 - [Licença]
 
 <br>
@@ -143,3 +143,19 @@ Foram utilizadas as seguintes ferramentes no desenvolvimento do projeto:
   <br>
 
 ---
+
+<br>
+<br>
+
+## 🤓 Autor
+
+<br>
+
+<img src="./public/assets/author.png" alt="Ricardo Granvilla" style="border-radius:50%; height:120px"/><br>
+
+<a href="https://github.com/rgranvilla">Ricardo Granvilla 🚀</a>
+
+Desenvolvido com muito carinho 😉 para você 👋 Entre em contato!
+<br>
+
+[![Twitter Badge](https://img.shields.io/badge/-@rgranvilla-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rgranvilla)](https://twitter.com/rgranvilla) [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgranvilla/)](https://www.linkedin.com/in/rgranvilla/) [![Gmail Badge](https://img.shields.io/badge/-rgranvilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rgranvilla@gmail.com)](mailto:rgranvilla@gmail.com)
